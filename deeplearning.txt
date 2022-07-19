@@ -1,0 +1,22 @@
+https://www.bilibili.com/video/BV19B4y1W76i?p=2
+
+斯坦福大学CS224d: Deep Learning for Natural Language Processing
+http://cs224d.stanford.edu/
+Richard Socher 主要讲解自然语言处理领域的各种深度学习模型
+
+斯坦福大学CS231n: Convolutional Neural Networks for Visual Recognition
+http://cs231n.stanford.edu/
+Fei-Fei Li Andrej Karpathy 主要讲解CNN、RNN在图像领域的应用
+
+加州大学伯克利分校 CS 294: Deep Reinforcement Learning
+http://rail.eecs.berkeley.edu/deeprlcourse/
+&spm_id_from=pageDriver&vd_source=96b8911ca4cb910a8cc138a4a6e3c9e9
+
+林轩田《机器学习基石》《机器学习技法》
+https://www.csie.ntu.edu.tw/~htlin/mooc/
+
+李宏毅《1天搞懂深度学习》
+http://speech.ee.ntu.edu.tw/~tlkagk/slide/Tutorial_HYLee_Deep.pptx
+
+李宏毅《Generative Adversarial Network (GAN)》
+http://speech.ee.ntu.edu.tw/~tlkagk/slide/Tutorial_HYLee_GAN.pptx
